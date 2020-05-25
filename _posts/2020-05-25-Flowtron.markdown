@@ -2,5 +2,5 @@
 layout: post
 title: Flowtron
 tags: [speech synthesis, speech transfer, paper review]
-image: '/images/posts/1.jpg'
+image: '/images/posts/flowtron.PNG'
 ---
