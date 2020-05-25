@@ -11,10 +11,8 @@ email:       jiwon630024@gmail.com
 description: Jiwon Blog
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         https://geongswon.github.io/
-twitter:     ''
 github:      https://github.com/geongswon
 instagram:   https://www.instagram.com/flwryjwn/
-facebook:    ''
 
 markdown:  kramdown
 permalink: pretty
