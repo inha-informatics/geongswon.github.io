@@ -8,9 +8,8 @@ image: '/images/pages/styleguide.jpg'
 
 ---
 
-* [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://arxiv.org/pdf/2005.05957v2.pdf)
+* [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://geongswon.github.io/2020/05/25/Flowtron/)
 
-> [바로가기](https://geongswon.github.io/2020/05/25/Flowtron/) 
 
 ---
 
