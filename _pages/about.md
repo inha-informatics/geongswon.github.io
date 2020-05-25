@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 수정중
+title: About
 image: '/images/pages/about.jpeg'
 ---
 
