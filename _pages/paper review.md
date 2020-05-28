@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Paper Review
-image: '/images/pages/styleguide.jpg'
 ---
 
 ### 논문 목록
