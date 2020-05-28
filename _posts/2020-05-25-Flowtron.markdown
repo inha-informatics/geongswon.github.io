@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flowtron
+title: Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis
 tags: [speech synthesis, speech transfer, paper review]
 image: '/images/posts/flowtron.PNG'
 ---
