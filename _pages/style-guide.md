@@ -4,42 +4,6 @@ title: Style Guide
 image: '/images/pages/styleguide.jpg'
 ---
 
-At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
-
-Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana.
-
----
-
-# Simple default styles for headings
-
-## Simple default styles for headings
-
-### Simple default styles for headings
-
-#### Simple default styles for headings
-
-##### Simple default styles for headings
-
-###### Simple default styles for headings
-
----
-
-* Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-* Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor.
-* Donec nibh massa, rutrum a sollicitudin eu, lacinia in lorem.
-
----
-
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in.
-3. Donec nibh massa, rutrum a sollicitudin eu.
-
----
-
-> Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana
-
----
-
 {% highlight js %}
 'use strict';
 var markdown = require('markdown').markdown;
