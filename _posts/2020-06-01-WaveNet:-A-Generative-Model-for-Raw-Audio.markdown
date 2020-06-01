@@ -10,3 +10,4 @@ use_math: true
 
 수식넣고싶어욥
 This formula $f(x) = x^2$ is an example.
+
