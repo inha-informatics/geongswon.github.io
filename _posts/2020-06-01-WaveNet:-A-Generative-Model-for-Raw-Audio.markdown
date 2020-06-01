@@ -15,5 +15,5 @@ use_math: true
 ![wavenet4](/images/pages/wavenet4.PNG)
 
 
-#### Background
-**Joint probability(동시확률)**: 두 개의 서로 다른 사건이 동시에 일어날 확률
+### Background
+Joint probability(동시확률): 두 개의 서로 다른 사건이 동시에 일어날 확률
