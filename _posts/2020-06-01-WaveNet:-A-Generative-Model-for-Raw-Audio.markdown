@@ -6,6 +6,10 @@ use_math: true
 ---
 
 ### WaveNet
-**Joint probability(동시확률)**: 두 개의 서로 다른 사건이 동시에 일어날 확률
- ex) $p(x $
 
+![about](/images/pages/about.jpeg)
+
+
+
+#### Background
+**Joint probability(동시확률)**: 두 개의 서로 다른 사건이 동시에 일어날 확률
