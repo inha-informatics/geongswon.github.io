@@ -3,6 +3,13 @@ layout: page
 title: Style Guide
 image: '/images/pages/styleguide.jpg'
 ---
+*기울기*라 적으면 기울기처럼 글자를 기울일 수 있습니다.
+
+**굵게**라 적으면 굵게처럼 글자를 굵게 표시할 수 있습니다.
+
+***굵게***라 적으면 굵으며 기운처럼 글자를 굵으면서도 기울게 표시할 수 있습니다.
+
+<U>밑줄</U>라 적으면 밑줄처럼 밑줄을 그을 수 있습니다.
 
 {% highlight js %}
 'use strict';
