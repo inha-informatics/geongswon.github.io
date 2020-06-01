@@ -7,8 +7,11 @@ use_math: true
 
 ### WaveNet
 
+1. Dilated Causal Convolutions
 ![wavenet2](/images/pages/wavenet2.PNG)
 ![wavenet3](/images/pages/wavenet3.PNG)
+
+4. Residual and Sip Connections
 ![wavenet4](/images/pages/wavenet4.PNG)
 
 
