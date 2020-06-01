@@ -7,8 +7,9 @@ use_math: true
 
 ### WaveNet
 
-![about](/images/pages/about.jpeg)
-
+![wavenet2](/images/pages/wavenet2.PNG)
+![wavenet3](/images/pages/wavenet3.PNG)
+![wavenet4](/images/pages/wavenet4.PNG)
 
 
 #### Background
